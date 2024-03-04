@@ -45,10 +45,7 @@
     .about-containers {
       margin-top: 0px;
     }
-    #about{
-      padding-top: 70px;
-    }
-
+    
   }
   
   @media screen and (max-width: 600px) {
@@ -104,9 +101,7 @@
     .text-container {
       text-align: justify;
     }
-    #about{
-      padding-top: 50px;
-    }
+    
   
   }
 
